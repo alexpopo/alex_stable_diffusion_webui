@@ -7,8 +7,8 @@ Please select `v0.6` from `switch branches/tags`
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable_diffusion_webui_colab.ipynb) alex_stable_diffusion_webui | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/waifu_diffusion_webui_colab.ipynb) alex_stable_diffusion_webui | https://huggingface.co/hakurei/waifu-diffusion-v1-3
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/andite/anything-v4.0
 
 ## 🤗 Hugging Face
 https://huggingface.co/spaces/camenduru/webui <br />
