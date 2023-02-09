@@ -1,5 +1,5 @@
 # alex_stable_diffusion_webui
-演示学习Stable Diffusion
+演示学习Stable Diffusion，基于2023年2月初最新的AUTOMATIC1111，测试的SD Model在下面列表中，适合有初级编程知识的朋友食用 ...
 
 ## How to use latest version?
 Please select `v0.6` from `switch branches/tags`
