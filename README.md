@@ -8,6 +8,7 @@ Please select `V0.7` from `switch branches/tags`
 | Colab Page | Model Page
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/andite/anything-v4.0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/runwayml/stable-diffusion-v1-5
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/stabilityai/stable-diffusion-2-1
 
