@@ -2,13 +2,14 @@
 演示学习Stable Diffusion，基于2023年2月初最新的AUTOMATIC1111，测试的SD Model在下面列表中，适合有初级编程知识的朋友食用 ...
 
 ## How to use latest version?
-Please select `v0.6` from `switch branches/tags`
+Please select `V0.7` from `switch branches/tags`
 
 ## 🦒 Colab
 | Colab Page | Model Page
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/CompVis/stable-diffusion-v-1-4-original
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/andite/anything-v4.0
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/runwayml/stable-diffusion-v1-5
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/stabilityai/stable-diffusion-2-1
 
 ## 🤗 Hugging Face
 Stable Diffusion 2.1 Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
