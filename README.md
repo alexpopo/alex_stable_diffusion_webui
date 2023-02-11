@@ -20,13 +20,14 @@ AI绘画工具dreamstudio详细教程: https://www.bilibili.com/video/BV1kY4y1F7
 真的可以躺着画画！: https://www.bilibili.com/video/BV15G411L7SG/?spm_id_from=333.788 <br />
 
 ## Stable Diffusion Web UI
-[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui). <br />
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) <br />
 [https://github.com/alexpopo/SDWebUI](https://github.com/alexpopo/SDWebUI)
 
 ## Documentation
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki) <br />
 [Command Line Arguments and Settings](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings) <br />
-[虚拟环境和包](https://docs.python.org/zh-cn/3/tutorial/venv.html). <br />
+[虚拟环境和包](https://docs.python.org/zh-cn/3/tutorial/venv.html) <br />
+[Stability-AI Config File for SD2.1](https://github.com/Stability-AI/stablediffusion/tree/main/configs/stable-diffusion)
 
 ## Models License
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
