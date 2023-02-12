@@ -2,7 +2,7 @@
 演示学习Stable Diffusion，基于2023年2月初最新的AUTOMATIC1111，测试的SD Model在下面列表中，适合有初级编程知识的朋友食用 ...
 
 ## How to use latest version?
-Please select `V0.7` from `switch branches/tags`
+Please select `V0.8` from `switch branches/tags`
 
 ## 🦒 Colab
 | Colab Page | Model Page
