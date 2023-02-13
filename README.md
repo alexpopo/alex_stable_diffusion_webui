@@ -12,6 +12,8 @@ Please select `V0.8` from `switch branches/tags`
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/runwayml/stable-diffusion-v1-5
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/stabilityai/stable-diffusion-2-1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/ckpt/midjourney-v4-diffusion
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/prompthero/openjourney-v2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexpopo/alex_stable_diffusion_webui/blob/master/alex_stable_diffusion_webui.ipynb) alex_stable_diffusion_webui | https://huggingface.co/timbrooks/instruct-pix2pix
 
 ## 🤗 Hugging Face
 Stable Diffusion 2.1 Demo: https://huggingface.co/spaces/stabilityai/stable-diffusion
